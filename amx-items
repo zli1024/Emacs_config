@@ -1,0 +1,37 @@
+
+;; ----- amx-history -----
+(
+ comment-region
+ comment-kill
+ comment-line
+ package-install
+ customize-group
+ package-refresh-contents
+ rename-file
+)
+
+;; ----- amx-data -----
+(
+ (eval-buffer . 106)
+ (eval-region . 13)
+ (customize-face . 1)
+ (list-faces-display . 2)
+ (package-delete . 1)
+ (package-install . 28)
+ (allout-mode . 1)
+ (all-the-icons-install-fonts . 1)
+ (all-the-icons-insert-alltheicon . 1)
+ (sml/setup . 4)
+ (sml/apply-theme . 1)
+ (hs-minor-mode . 1)
+ (avy-copy-region . 7)
+ (package-list-packages . 3)
+ (company-mode . 3)
+ (gdb . 7)
+ (rename-file . 2)
+ (comment-region . 3)
+ (comment-kill . 2)
+ (comment-line . 6)
+ (package-refresh-contents . 2)
+ (customize-group . 5)
+)

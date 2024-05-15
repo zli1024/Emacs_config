@@ -1,0 +1,5 @@
+;;; Whole Themes Configuration
+
+;; ---- Dracula-theme ----
+(load-theme 'dracula t)
+
